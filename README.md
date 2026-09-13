@@ -251,4 +251,4 @@ This repository serves as the official landing page for ooVoo. The software is d
 **Get the most recent version of ooVoo today!**
 
 ---
-**Last updated:** 2026-09-12 22:08:35 UTC
+**Last updated:** 2026-09-13 00:46:33 UTC
